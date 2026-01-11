@@ -36,4 +36,4 @@ This extension saves my StrataScratch solutions to my GitHub repository when I m
 
 
 ## Contact
-For questions: <your email or a GitHub profile link>
+For questions: [akshankrithick305@gmail.com](mailto:akshankrithick305@gmail.com)
