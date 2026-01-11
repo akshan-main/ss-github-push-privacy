@@ -29,5 +29,11 @@ This extension saves my StrataScratch solutions to my GitHub repository when I m
 ## Security
 - The GitHub token is stored locally. I can revoke/rotate it at any time in GitHub.
 
+## Data categories (Chrome Web Store disclosure)
+- Authentication information: A user-provided GitHub personal access token is stored locally to authenticate GitHub API requests that write files to the user’s repository.
+- Website content: The extension reads the solution text from the StrataScratch editor and sends it to GitHub to create/update a file in the user’s repository.
+- User activity (limited): The extension detects when the user clicks “Check Solution” and monitors the page until it shows “Solved” to know when to upload. The extension does not keep activity logs.
+
+
 ## Contact
 For questions: <your email or a GitHub profile link>
